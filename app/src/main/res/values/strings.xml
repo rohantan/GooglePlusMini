@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Google Plus Mini</string>
+    <string name="app_home">Home</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">Circles</string>
+    <string name="title_activity_cricle">CricleActivity</string>
+    <string name="title_activity_friend_profile">FriendProfileActivity</string>
+
+</resources>
